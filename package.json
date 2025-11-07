@@ -3,7 +3,7 @@
   "homepage": "https://lgg6bentley.github.io/civic-core/",
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build", 
+    "build": "vite build", 
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
